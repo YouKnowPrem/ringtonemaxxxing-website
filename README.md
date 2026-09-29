@@ -19,7 +19,7 @@ Built with a tactile **Claymorphism** design system, crafted with warm terracott
 ## 🚀 Live Staging Build
 
 - **APK Name**: `RingToneMaxxxing.apk`
-- **Version**: `v1.4.0`
+- **Version**: `v1.4.3`
 - **File Size**: `49 MB`
 - **Minimum OS**: Android 10.0+ (API Level 29 up to Android 15)
 
